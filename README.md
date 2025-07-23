@@ -40,12 +40,14 @@ This project provides a comprehensive analysis of retail sales performance acros
 
 ## 📦 Files in this Repository
 
-| File                     | Description                                                   |
-|--------------------------|---------------------------------------------------------------|
-| `datathon_retail.twb`    | Packaged Tableau workbook including all dashboards            |
-| `README.md`              | Project overview and documentation                            |
+| File Name               | Description                                                |
+|-------------------------|------------------------------------------------------------|
+| `Datathon_Retail.twb`   | Packaged Tableau workbook with all dashboards              |
+| `Datathon (2).pdf`      | Retail analysis report detailing insights and findings     |
+| `Slides Retail.pdf`     | Final presentation slides used for Datathon pitch          |
+| `README.md`             | This project documentation                                 |
 
-To open the `.twb` file, use **Tableau Public** (free) or **Tableau Desktop**.
+> To open `.twb` file: Use **Tableau Public (free)** or **Tableau Desktop**
 
 ---
 
@@ -72,4 +74,3 @@ Completed as part of the **Datathon 2025 – Retail Visualization Challenge** in
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shuozishan-wang-7a2a2935a) or explore more projects on [GitHub](https://github.com/Doris040512).
 
----
