@@ -51,8 +51,7 @@ To open the `.twb` file, use **Tableau Public** (free) or **Tableau Desktop**.
 
 ## 🌐 View the Interactive Dashboard
 
-👉 **[Click here to view on Tableau Public](#)**  
-_(Insert your Tableau Public dashboard link here)_
+👉 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/yanyuzi.chen3379/viz/Datathon_Retail/RegionsvsquantityRevenue)
 
 ---
 
